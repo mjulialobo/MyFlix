@@ -4,7 +4,7 @@
 <br>
 </h1>
 
-<p align="center">A Netflix clone developed with React! </p>
+<h2 align="center">A Netflix clone developed with React! </h2>
 <p align="center">Thanks to  <a href='https://www.youtube.com/watch?v=XtMThy8QKqU&t=11019s'>Clever Programmer's</a> for the tutorial.</p>
 
 <hr />
