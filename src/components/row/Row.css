@@ -1,0 +1,40 @@
+.row {
+  margin-left: 20px;
+}
+.row h2 {
+  margin-left: 14px;
+  margin-bottom: 8px;
+  margin-top: 16px;
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
+}
+.row_posters {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 16px;
+}
+
+/*==HIDE SCROLL==*/
+.row_posters::-webkit-scrollbar {
+  display: none;
+}
+.row_poster {
+  width: 100%;
+  object-fit: contain;
+  max-height: 150px;
+  margin-right: 12px;
+  transition: transform 450ms;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.row_poster:hover {
+  transform: scale(1.08);
+}
+.row_posterLarge {
+  max-height: 350px;
+  margin-right: 14px;
+}
+.row_posterLarge:hover {
+  transform: scale(1.09);
+}
