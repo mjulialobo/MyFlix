@@ -9,6 +9,10 @@
 
 <hr />
 
+<h2> Hi! </h2>
+<p> This is my one of my first projects developed with React, this is still in progress, and I'll be updating it as I move forward in my studies! I still want to make this website responsive, show trailers and descriptions for every movie and maybe a search engine! It still has some bugs to be fixed, and to fix it, I am studying more :) <p>
+
+ 
 <h2> <img src= "https://cdn.onlinewebfonts.com/svg/img_510194.png" width="50px" height="50px" align="center"/> What was Created? </h2>
 
 <p> A Netflix clone using:
@@ -17,7 +21,6 @@
   <li>JavaScript</li>
   <li><a href='https://www.themoviedb.org'>TMDB</a> API </li> </ul></p>
 
-<p> <strong> What will be changed:</strong> responsiveness, trailers for every movie, search movies by name. </p>
 <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use? </h2>
 
 <h3> Steps <h3>
@@ -39,6 +42,10 @@ $ npm start
 ```
 
 <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
-<p>Note: gif distorts images and colors</p>
+<h4>Note: gif distorts images and colors</h4>
+ <p> To see the final result click <a href="https://myflix-2681c.firebaseapp.com/">HERE!</a></p>
+ 
+<p> For the deployed version, the principal banner might not load at first, try reloading it. Remember, this is still in progress!</p>
 
-<p> still in progress </p>
+<img src="https://user-images.githubusercontent.com/65983895/89841025-4467c100-db48-11ea-8c70-62c5348ebedd.gif" />
+
