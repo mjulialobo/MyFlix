@@ -21,7 +21,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
   }, [fetchUrl]);
 
   const opts = {
-    height: "390",
+    height: "400",
     width: "100%",
     playerVars: {
       // https://developers.google.com/youtube/player_parameters
