@@ -10,7 +10,7 @@
 <hr />
 
 <h2> Hi! </h2>
-<p> This is my one of my first projects developed with React, this is still in progress, and I'll be updating it as I move forward in my studies! I still want to make this website responsive, show trailers and descriptions for every movie and maybe a search engine! It still has some bugs to be fixed, and to fix it, I am studying more :) <p>
+<p> This is my first project developed with React, this is still in progress, and I'll be updating it as I move forward in my studies! I still want to make this website responsive, show trailers and descriptions for every movie and maybe a search engine! It still has some bugs to be fixed, and to fix it, I am studying more :) <p>
 
  
 <h2> <img src= "https://cdn.onlinewebfonts.com/svg/img_510194.png" width="50px" height="50px" align="center"/> What was Created? </h2>
